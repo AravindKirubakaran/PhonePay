@@ -2,7 +2,7 @@
 
 1. PrerequisitesYou must have the following installed:Python 3.8+MySQL Server
 
-2. Clone the Repositorygit clone [https://github.com/your-username/phonepe-data-visualization.git](https://github.com/your-username/phonepe-data-visualization.git)
+2. Clone the Repositorygit clone [https://github.com/AravindKirubakaran/PhonePay.git](https://github.com/AravindKirubakaran/PhonePay.git)
 cd phonepe-data-visualization
 
 3. Set up the DatabaseThe application connects to a MySQL database named phonepay.Create the Database:CREATE DATABASE phonepay;
